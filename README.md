@@ -34,4 +34,4 @@ Cancer Prediction Notebook.ipynb: An exploratory analysis of the dataset and the
 Must give credit to Kaggle for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/datasets/rabieelkharoua/cancer-prediction-dataset/data).  Feel free to use the code here as you would like! 
 
 ## Results<a name="results"></a>
-The main findings of this analysis can be found [here](https://medium.com/@shirishghimire46/how-likely-are-you-to-be-diagnosed-with-cancer-a-data-driven-approach-76fb21b08888)
+The main findings of this analysis can be found [here](https://medium.com/@shirishghimire46/how-likely-are-you-to-be-diagnosed-with-cancer-a-data-driven-approach-f4d143ba4452)
